@@ -4,6 +4,7 @@
 
   @include respond(big-desktop) {
     max-width: none;
+    margin: 0 auto;
   }
 
   &:not(:last-child) {
